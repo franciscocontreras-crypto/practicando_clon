@@ -1,1 +1,2 @@
 Aprendiendo Git paso a paso
+Este es el segundo día de trainning
